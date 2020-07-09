@@ -1,3 +1,3 @@
-# Hello!
+# Hello, world 👋
 
-Is this actually working?
+Python is a social construct.
