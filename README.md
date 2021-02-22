@@ -1,3 +1,3 @@
 # Hello, world 👋
 
-Python is a social construct.
+YAML bad amirite?
